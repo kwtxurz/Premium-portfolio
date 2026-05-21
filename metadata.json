@@ -1,0 +1,6 @@
+{
+  "name": "Xurzkwt Portfolio",
+  "description": "A high-end, premium minimalist fashion editorial portfolio showcasing the work of Xurzkwt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
